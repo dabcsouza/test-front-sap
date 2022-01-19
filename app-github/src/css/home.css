@@ -1,0 +1,45 @@
+.main-container {
+  height: 70vh;
+  display: grid;
+  grid-gap: 2px;
+  grid-template-rows: 2fr 5fr;
+  grid-template-areas: "header"
+                       "main";
+}
+
+.main-container > div {
+  margin: 200px auto;
+}
+
+.users-section {
+  overflow: scroll;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  grid-area: main;
+  height: 90vh;
+}
+
+.users-section > a {
+  text-decoration: none;
+  color: #222
+}
+
+.users-section > a:hover {
+  text-decoration: none;
+  color: #222
+}
+
+.users-section > a:visited {
+  text-decoration: none;
+}
+
+
+.aside-right {
+  grid-area: asider;
+}
+
+.aside-left {
+  grid-area: asidel;
+}

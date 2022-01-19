@@ -1,0 +1,24 @@
+.header-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  grid-area: header;
+  height: 50px;
+  text-align: center;
+}
+
+.iconsNav {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+
+.actual-page {
+  display: inline-block;
+  text-align: center;
+  vertical-align: center;
+}
+
+.form-control {
+  text-align: center;
+}

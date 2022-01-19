@@ -1,0 +1,16 @@
+.card-user {
+  margin: 5px;
+  width: 16rem;
+  text-align: center;
+  transition: ease-in-out 0.2s;
+}
+
+.card-user:hover {
+  transform: scale(1.02);
+  cursor: pointer;
+}
+
+.login-title {
+  font-weight: bold;
+  color: rgba(1, 4, 12, 0.733);
+}
