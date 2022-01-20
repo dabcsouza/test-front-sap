@@ -1,7 +1,7 @@
 # Teste Front-End usando RestAPI github
 Este repositório foi criado com o objetivo de hospedar uma aplicação react que faz uso da RestAPI do github.
 
-## Requisitos
+## Requisitos ✔️
 
 1 - Usando o endpoint `GET - /api/users?since={number}` trazer todos os usuários cadastrados no github e exibir na tela seu **ID e Login**.
 
@@ -22,7 +22,7 @@ Este repositório foi criado com o objetivo de hospedar uma aplicação react qu
 
   - A requisição dos repositório públicos de um usuário pode ser feita pelo endpoint `GET - /api/users/:username/repos`.
 
-## Entregando o projeto
+## Entregando o projeto ✔️
 
 1 - Guarde sua aplicação em um repositório privado no Bitbucket ou similares e conceda acesso a *andre.eccel@shawandpartners.com* e coloque o link de acesso ao reposiório na pagina de candidatura.
 
@@ -34,7 +34,7 @@ Este repositório foi criado com o objetivo de hospedar uma aplicação react qu
 
 3 - Faça uma descrição para acesso ao código da sua aplicação (???) ❓
 
-## Acessando ao código da aplicação
+## Acessando ao código da aplicação 
 
 ### Requisitos
 
@@ -47,5 +47,7 @@ Este repositório foi criado com o objetivo de hospedar uma aplicação react qu
 
 - `git clone git@github.com:dabcsouza/test-front-sap.git`
 - `cd test-front-sap`
-- `git clone git@github.com:dabcsouza/test-front-sap.git`
+- `cd app-github`
+- `npm install`
+- `npm start`
 
