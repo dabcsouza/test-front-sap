@@ -21,3 +21,29 @@ Este repositório foi criado com o objetivo de hospedar uma aplicação react qu
 - **Dica:**
 
   - A requisição dos repositório públicos de um usuário pode ser feita pelo endpoint `GET - /api/users/:username/repos`.
+
+## Entregando o projeto
+
+1 - Guarde sua aplicação em um repositório privado no Bitbucket ou similares e conceda acesso a *andre.eccel@shawandpartners.com* e coloque o link de acesso ao reposiório na pagina de candidatura.
+
+2 - faça o deploy da aplicação e coloque o link na sua página de candidatura.
+
+- **Dica:**
+
+  - É recomendado o uso do *Heroku* para fazer o deploy da sua aplicação pois pode ser feita de maneira fácil e gratuíta.
+
+3 - Faça uma descrição para acesso ao código da sua aplicação (???) ❓
+
+## Acessando ao código da aplicação
+
+### Requisitos
+
+1 - Possuir acesso ao repositório do projeto
+2 - Possuir um computador com o git instalado, configurado e com acesso ao github.
+3 - Possuir o node instalado e atualizado.
+
+### Acessando o projeto (Não foi desenvolvido a versão mobile da aplicação, resol. recomendada 1024x768)
+#### Comandos
+
+- `git clone `
+
