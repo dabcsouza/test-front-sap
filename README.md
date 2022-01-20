@@ -45,5 +45,7 @@ Este repositório foi criado com o objetivo de hospedar uma aplicação react qu
 ### Acessando o projeto (Não foi desenvolvido a versão mobile da aplicação, resol. recomendada 1024x768)
 #### Comandos
 
-- `git clone `
+- `git clone git@github.com:dabcsouza/test-front-sap.git`
+- `cd test-front-sap`
+- `git clone git@github.com:dabcsouza/test-front-sap.git`
 
