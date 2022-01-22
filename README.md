@@ -1,7 +1,7 @@
 # Teste Front-End usando RestAPI github
 Este repositório foi criado com o objetivo de hospedar uma aplicação react que faz uso da RestAPI do github.
 
-## Requisitos ✔️
+## Requisitos
 
 1 - Usando o endpoint `GET - /api/users?since={number}` trazer todos os usuários cadastrados no github e exibir na tela seu **ID e Login**.
 
@@ -21,6 +21,13 @@ Este repositório foi criado com o objetivo de hospedar uma aplicação react qu
 - **Dica:**
 
   - A requisição dos repositório públicos de um usuário pode ser feita pelo endpoint `GET - /api/users/:username/repos`.
+
+| Requisitos                                                                                                                                          |   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| Trazer todos os usuários cadastrados no github e exibir na tela seu   ID e Login .                                                                  | ✔️ |
+| Ao clicar em um usuário a aplicação deverá ser redirecionada para outra tela onde é exibido os detalhes do usuário                                  | ✔️ |
+| Na tela criada no requisito 2 também deve conter uma tabela com informações referentes aos repositórios do usuário (id, Nome e  URL do repositório) | ✔️ |
+
 
 ## Entregando o projeto ✔️
 
