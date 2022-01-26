@@ -1,4 +1,4 @@
-# Teste Front-End usando RestAPI github
+# Teste Front-End usando RestAPI github Shaw and Partners
 Este repositório foi criado com o objetivo de hospedar uma aplicação react que faz uso da RestAPI do github.
 
 ## Requisitos
@@ -58,3 +58,4 @@ Este repositório foi criado com o objetivo de hospedar uma aplicação react qu
 - `npm install`
 - `npm start`
 
+### Link de acesso a aplicação http://sap-test-2930.herokuapp.com/
